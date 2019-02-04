@@ -1,0 +1,182 @@
+
+
+body {
+    background-color: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(36, 49, 49);
+}
+.gridcontainer {
+    
+    
+}
+
+header {
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    
+}
+
+.Lee {
+    border-radius: 50%;
+    border: 5px solid #CCCCCC;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #DB1A40;
+    font-weight: 1000;
+    
+}
+
+.HTML {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.bio {
+    text-align: justify;
+    margin: 10px 15px;
+    line-height: 1.6;
+    font-size: 20px;
+}
+
+button {
+    display: flex;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #DB1A40;/*ButtonColor*/
+    color: #FFF;
+    font-weight: 800;
+    border-radius: 5px;
+}
+.square_btn:active {/*OnClick*/
+    -ms-transform: translateY(4px);
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);/*Move down*/
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);/*Reduce Shadow*/
+    border-bottom: none;
+}
+
+
+nav {
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+}
+
+.nav1 {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+    
+
+
+}
+
+.nav1 a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: #CCCCCC;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+    margin-top: 100px;
+}
+li {
+    text-align: center;
+}
+
+section {
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+
+}
+.favorite {
+    text-align: center;
+}
+
+.mo1  {
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    
+}
+.pic1 {
+    width: 25%;
+}
+
+.pic1 img  {
+   width: 100%;
+
+
+}
+
+.description1 {
+    width: 75%;
+    padding: 25px;
+    margin-top: -40px;
+}
+
+.mo2  {
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    
+}
+.pic2 {
+    width: 25%;
+}
+
+.pic2 img  {
+   width: 100%;
+
+
+}
+
+.description2 {
+    width: 75%;
+    padding: 25px;
+    margin-top: -40px;
+}
+
+.mo3  {
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    
+}
+.pic3 {
+    width: 25%;
+}
+
+.pic3 img  {
+   width: 100%;
+
+
+}
+
+.description {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 75%;
+    padding: 25px;
+    margin-top: -40px;
+}
+
+ {
+    
+}
